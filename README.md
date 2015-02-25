@@ -1,4 +1,4 @@
-# Git på svenska
+# Git på svenska med scwung
 
 ## Introduktion
 
